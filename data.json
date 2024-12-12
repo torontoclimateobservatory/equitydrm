@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Rashmin Gunasekera",
+        "title": "Senior Disaster Risk Management Specialist",
+        "organization": "World Bank/GFDRR",
+        "bio": "Rashmin Gunasekera is a Senior Disaster Risk Management Specialist at the World Bank in Washington DC, focusing on disaster risk assessment and risk financing within the Urban, Disaster Risk Management, Resilience and Land Global Practice, specifically in the Latin American and Caribbean region. He has over 15 years of work experience in disaster risk quantification extending to the public sector, re/insurance industry and academia.",
+        "photo": "images/Gunasekera.jpg"
+      },
+      {
+        "name": "Hamish Patten",
+        "title": "Senior Data Scientist",
+        "organization": "International Federation of Red Cross",
+        "bio": "Hamish is currently working as the Senior Data Scientist of the Global Crisis Data Bank with the International Federation of Red Cross and Red Crescent Societies (IFRC). Hamish holds a PhD in Physics and previously worked in the Department of Statistics at the University of Oxford, as well as with UNDRR.",
+        "photo": "images/Patten.jpg"
+      },
+      {
+        "name": "Bramka Jafino",
+        "title": "Consultant/Advisor",
+        "organization": "Deltares",
+        "bio": "Bramka Arga Jafino is a consultant/advisor at Deltares, The Netherlands. His current work focuses on supporting flood risk management through quantitative models, with an emphasis on promoting equity and fairness in the planning process. Prior to joining Deltares, Bramka worked as a consultant for GFDRR. His work focused on using simulation models and machine learning techniques to support climate change adaptation and mitigation planning under deep uncertainty.",
+        "photo": "images/Jafino.jpg"
+      },
+      {
+        "name": "Karen Barns",
+        "title": "Senior Risk and Resilience Consultant",
+        "organization": "Arup",
+        "bio": "Karen Barns is a senior risk and resilience consultant with Arup based in their San Francisco office. Her work focuses on the use of risk analysis to help cities and organizations understand, mitigate, and adapt, to reduce the potential impacts from natural hazards. She has spent the last 10 years working in the field of risk management with clients from the private, public and nonprofit sectors. She holds an MS in Civil Engineering focused on disaster risk management and resilience from Stanford University.",
+        "photo": "images/Barns.jpg"
+      },
+      {
+        "name": "Sabine Loos",
+        "title": "Assistant Professor",
+        "organization": "Department of Civil and Environmental Engineering, University of Michigan",
+        "bio": "Sabine Loos is the PI of AIDD labs and an Assistant Professor in the Civil and Environmental Engineering Department at University of Michigan. Broadly, her research surrounds the development of disaster information that centers users and the human experience. She applies statistical learning, risk analysis, and user-centered design techniques to develop tools that inform effective and equitable disaster risk reduction, response, and recovery. She has worked across Nepal, Singapore, and New Zealand to gain firsthand experience of the impacts from disasters. The transdisciplinary nature of her work has led her to collaborate with Kathmandu Living Labs, the World Bank, NASA-JPL, Humanitarian OpenStreetMap Team, and others. She also co-chairs the Natural Hazards Center Researchers' Meetings and co-founded the Risk & Resilience DAT/Artathon.",
+        "photo": "images/Loos.jpg"
+      },
+      {
+        "name": "Robert Soden",
+        "title": "Assistant Professor",
+        "organization": "Department of Computer Science and School of the Environment, University of Toronto",
+        "bio": "Robert Soden is an Assistant Professor at the University of Toronto working on climate informatics, human-centered computing (HCC), and science and technology studies (STS). His research uses a range of ethnographic, participatory, and design research methods to evaluate and improve the technologies we use to understand and respond to environmental challenges like disasters and climate change. His research is supported by a diverse network of funders including NSERC, SSHRC, NSF, NOAA, and the Natural Hazards Center.",
+        "photo": "images/Soden.jpg"
+      },
+      {
+        "name": "David Lallemant",
+        "title": "Associate Professor",
+        "organization": "Climate and Disaster Risk Modeling and Engineering, Earth Observatory Singapore",
+        "bio": "Prof. Lallemant joined the NTU faculty from Stanford University, where he was a researcher and founder of the Stanford Urban Resilience Initiative. He holds a PhD from Stanford University (2015), master’s degree from UC Berkeley (2010) and a bachelor’s degree from MIT (2007). His academic background is in earthquake sciences and engineering, predictive modeling, geostatistics, reliability analysis and others, used to conduct novel and impactful research to promote resilient societies.\n\nProf. Lallemant is also active in post-disaster response and recovery, which forms the basis for his research on post-disaster assessment and community resilience. He worked for two years in Haiti following the 2010 earthquake and has been involved with the response and recovery following the 2011 Christchurch earthquake and 2015 earthquake in Nepal. He regularly consults for the World Bank and the Global Facility for Disaster Reduction and Recovery (GFDRR).",
+        "photo": "images/Lallemant.png"
+      },
+      {
+        "name": "Bijan Khazai",
+        "title": "Chief Executive Officer",
+        "organization": "Risklayer GmbH and Hotel Resilient",
+        "bio": "Bijan is the CEO of Risklayer GmbH and Hotel Resilient, and an expert in disaster resilience and risk management. He has over 20 years of experience in academia and as a consultant in a number of international consulting and research projects on urban disaster risk management, hospitality and tourism resilience. He holds Masters and Doctoral degrees in Civil and Environmental Engineering from the University of California at Berkeley.",
+        "photo": "images/Khazai.jpg"
+      },
+      {
+        "name": "Jocelyn West",
+        "title": "Research Social Scientist",
+        "organization": "U.S. Geological Survey",
+        "bio": "Jocelyn West is a research social scientist at the U.S. Geological Survey (USGS), a graduate research affiliate with the Natural Hazards Center, and a doctoral candidate in the Department of Sociology at the University of Colorado Boulder. Her research interests include risk communication, social vulnerability to natural hazards, and community engagement in disaster risk reduction. Her dissertation research focuses on the social dimensions of landslides in Puerto Rico, centering rural community experiences with compound hazards. Supported by the Public Health Disaster Research Award Program, West has led interdisciplinary team research about population exposure and the public health implications of landslides in Puerto Rico. At the Center, West coordinated the multi-year Puerto Rico Landslide Hazard Mitigation Project in collaboration with the USGS and the University of Puerto Rico Mayagüez. She also co-developed a CONVERGE Training Module on the topic of Reciprocity in Hazards and Disaster Research.",
+        "photo": "images/West.jpg"
+      },
+      {
+        "name": "Vitor Silva",
+        "title": "Seismic Risk Coordinator",
+        "organization": "Global Earthquake Model (GEM) Foundation",
+        "bio": "Vitor Silva is the Seismic Risk Coordinator at the Global Earthquake Model (GEM) Foundation (www.globalquakemodel.org), a non-profit organization with the mandate to calculate and communicate earthquake risk worldwide. He leads studies in structural vulnerability and probabilistic seismic risk assessment in dozens of countries, and participates in a multitude of International, European and regional projects. His research covers the assessment of earthquake impact at the global scale, incorporation of the temporal component in earthquake risk, and exploration of machine learning technology in the assessment of earthquake hazard, vulnerability and exposure.",
+        "photo": "images/Silva.jpg"
+      },
+      {
+        "name": "Marc van den Homberg",
+        "title": "Scientific Lead and Professor",
+        "organization": "International Federation of Red Cross and ITC University",
+        "bio": "As an applied researcher and consultant, Dr Marc van den Homberg focuses on how humanitarian data and information management can improve preparedness and response to both natural disasters and complex emergencies. Most recently, Marc worked with Dalberg for UN OCHA and Netherlands Ministry of Foreign Affairs on a vision for and the feasibility of an entity to improve the use of data across the humanitarian ecosystem. With Leiden University and The GovLab (New York University) Marc performed a gap analysis on the data policies for UN OCHA's main ICT systems and processes.",
+        "photo": "images/Homberg.jpg"
+      },
+      {
+        "name": "Gemma Cremen",
+        "title": "Assistant Professor",
+        "organization": "Department of Civil, Environmental, and Geomatic Engineering, University College London",
+        "bio": "Gemma Cremen has been Lecturer of Risk and Resilience Engineering within the Department of Civil, Environmental and Geomatic Engineering at UCL since 2021. She is Co-Director of the DE|RISC (Disaster Engineering for Resilient Societies) Lab  -  comprising of three full-time faculty, four postdoctoral research fellows, and more than 10 PhD students – that works at the intersection of civil engineering and other related disciplines to facilitate multi-hazard risk- and resilience-informed decision making for a better tomorrow’s world.  She has co-authored over 30 journal publications, including an Editors’ Highlight in Nature Communications. Gemma was previously a (Senior) Research Fellow (in Civil Engineering) and a Research Associate (in Geophysics) at UCL and the University of Bristol, respectively. She completed her PhD in Earthquake Engineering at Stanford University in 2019.",
+        "photo": "images/Cremen.jpg"
+      },
+      {
+        "name": "Kristopher Young",
+        "title": "Doctoral Candidate",
+        "organization": "University of Utah, Department of Sociology",
+        "bio": "Kristopher Young is a doctoral candidate in the Sociology Department at University of Utah with applied research interests in social dimensions of wildfire in the United States, and sustainable development in post-disaster contexts in the global South, specifically Haiti and Sri Lanka. He received a BS in forestry at Utah State University with an emphasis in disturbance ecology, an MA in sustainable development and disaster management from Prescott College, and an MS in sociology from University of Utah.",
+        "photo": "images/Young.jpg"
+      },
+      {
+        "name": "Rebekah Paci-Green",
+        "title": "Associate Professor",
+        "organization": "Environmental Studies Department, Western Washington University",
+        "bio": "Dr. Paci-Green is Associate Professor and Chair of Environmental at Western Washington University. Dr. Paci-Green has academic training in structural engineering and cultural anthropology. Her research focuses on the socio-cultural contexts that marginalize groups, giving rise to disaster vulnerability. She advocates for participatory and community-based approaches to risk reduction. Currently, as part of the United Nation’s Global Alliance for Disaster Risk Reduction and Resilience in the Education Sector, she is working on a global survey to assess trends in comprehensive school safety policy across the globe.",
+        "photo": "images/Green.jpg"
+      },
+      {
+        "name": "Robert Emberson",
+        "title": "Associate Program Manager",
+        "organization": "NASA Earth Applied Sciences Disaster Program",
+        "bio": "Robert serves as Associate Program Manager of the NASA Earth Applied Sciences Disasters Program area. In this role, he helps administrate a range of projects funded by the program, as well as supporting the disaster response activities by providing satellite data and insight to a range of stakeholders before, during and after disasters strike. He also leads research projects that explore how satellite data can be used to inform assessment of soil erosion in agricultural areas, and the potential for subseasonal extreme rainfall forecasting using NASA models.",
+        "photo": "images/Emberson.jpg"
+      },
+      {
+        "name": "Dennis Wagenaar",
+        "title": "Research Fellow",
+        "organization": "Disaster Analytics for Society Lab, Nanyang Technological University",
+        "bio": "Dennis Wagenaar is a Research Fellow at the Disaster Analytics for Society Lab (DASL) at Nanyang Technological University (NTU)’s Asian School of the Environment and the Earth Observatory of Singapore. His specializes in flood and tropical cyclone risk assessments. Prior to joining the university he was a consultant at Deltares where he carried out many cost-benefit analyses for proposed flood risk reduction interventions. He holds a PhD from the VU University in Amsterdam with a thesis on flood impact models and he has a Master's Degree in Civil Engineering from Delft University of Technology.",
+        "photo": "images/Wagenaar.jpg"
+      },
+      {
+        "name": "Charles Huyck",
+        "title": "Executive Vice President",
+        "organization": "ImageCat",
+        "bio": "Mr. Huyck is a founding partner and has been the Executive Vice President of ImageCat since its inception in 2000. Charles Huyck oversees a diverse team of engineers, scientists, and programmers, fostering the development of cutting-edge software tools and pioneering risk assessment technologies that transcend conventional boundaries. Mr. Huyck’s 30-year experience encompasses a wide spectrum of disaster scenarios, ranging from riverine and coastal flooding to earthquakes, wildfires, hurricanes, and terrorism. Notably, Charles Huyck has led contributions to groundbreaking research in the application of Earth Observation-based applications for building exposure development, critical infrastructure data, and post-disaster damage assessments.",
+        "photo": "images/Huyck.jpg"
+      },  
+      {
+      "name": "Simone Curtis",
+      "title": "PhD Researcher",
+      "organization": "Department of Civil and Environmental Engineering, University of Michigan",
+      "bio": "Simone Curtis is a PhD Researcher with AIDD labs in the Civil Engineering program at the University of Michigan. Broadly, she aims to create human-centered tools that inform equitable disaster risk management decisions. Her research surrounds the development of equity-aware risk modeling approaches that quantify the inequitable distribution of risk to extend the traditional risk modeling framework. She is also interested in developing accessible risk models by studying visual risk communication. Prior to UM, Simone received her BSc in Architectural Engineering with an emphasis in Structures from the University of Colorado Boulder in 2023.",
+      "photo": "images/Curtis.jpg"
+    },
+    {
+      "name": "Kanako Iuchi",
+      "title": "Associate Professor",
+      "organization": "Tohoku University",
+      "bio": "Kanako Iuchi researches post-disaster planning approaches and processes to achieve resiliency. Current research themes cover recovery governance, community relocation, and spatial re-development. For the past five years, her research has primarily centered on coastal areas of disaster affected regions in Asia, including Aceh, Yogyakarta and Central Sulawesi, Indonesia (2004 tsunami, 2010 eruption, 2018 earthquake); Tohoku, Japan (2011 tsunami); Leyte, the Philippines (2013 typhoon); and Kathmandu, Nepal (2015 earthquake). She also explores New York, US (2012 hurricane) and Christchurch, NZ (2010 and 2011 earthquakes) to highlight differences in planning approaches among global North and South.",
+      "photo": "images/Iuchi.jpg"
+    },
+    {
+      "name": "Amparo Hiraldo",
+      "title": "Senior Water Resources Management Specialist",
+      "organization": "World Bank",
+      "bio": "Amparo Samper Hiraldo is a Senior Water Resources Management Specialist with the World Bank's Water Global Practice.",
+      "photo": "images/Hiraldo.jpg"
+    },
+    {
+      "name": "Carmine Galasso",
+      "title": "Professor of Catastrophe Risk Engineering",
+      "organization": "Department of Civil, Environmental, and Geomatic Engineering, University of College London",
+      "bio": "I am a (Full) Professor of Catastrophe Risk Engineering in the University College London (UCL)'s Department of Civil, Environmental & Geomatic Engineering (CEGE), UK. My research focuses on developing and applying probabilistic and statistical methods and computational/digital tools for catastrophe risk modeling and disaster risk reduction. I am investigating risks to building portfolios and infrastructure exposed to multiple natural hazards, including earthquakes, typhoons, and floods, with particular emphasis on low-income countries and community-based infrastructure (schools, hospitals, heritage assets). Prior to joining UCL, I worked as a Catastrophe Risk Modeler in the Catastrophe Risk Engineering group of Applied Insurance Research (AIR) Worldwide, San Francisco, USA, supporting several risk assessment projects for corporate clients or public institutions, e.g., the World Bank and the Asian Development Bank.",
+      "photo": "images/Galasso.jpg"
+    },
+    {
+      "name": "Mikhail Sirenko",
+      "title": "Researcher",
+      "organization": "Delft University of Technology",
+      "bio": "Mikhail is a Researcher at the Delft University of Technology and Wageningen University & Research and has a background in applied mathematics and cybernetics. He is also a Disaster Risk Management Consultant at the World Bank. Currently, Mikhail works at the intersection of computational modelling, urban planning and policy-making. He studies how complex systems like cities or countries can recover, adapt, and transform given various shocks, e.g., a heatwave or a pandemic, and stresses such as social inequality.",
+      "photo": "images/Sirenko.jpg"
+    },
+    {
+      "name": "Arjola Limani",
+      "title": "Gender Analyst",
+      "organization": "World Bank",
+      "bio": "Arjola Limani is a Gender Analyst in the Global Practice (GP) for Urban, Resilience and Land at the World Bank. Arjola joined the World Bank in 2017 as Consultant in the Results team in Operational Policy and Country Services (OPCS). She then served as a Disaster Risk Management Consultant for Europe and Central Asia Region undertaking analysis to better understand the different impacts of disasters and climate change on women and men. Prior to joining the World Bank Group, Arjola held positions with the government of Albania, Heifer International in Peru and Vital Voices Global Partnership in D.C., leading across a range of areas including women's land and property rights, gender equality, gender-based violence, and women's economic inclusion.",
+      "photo": "images/Limani.jpg"
+    },
+    {
+      "name": "Nicole Paul",
+      "title": "PhD Student",
+      "organization": "University College London",
+      "bio": "Nicole Paul is currently researching household displacement due to disasters at University College London (UCL). Her background is in structural engineering and I have over nine years of experience quantifying disaster risks. At the Global Earthquake Model (GEM) Foundation, she conducted earthquake risk assessment at the national and regional scales. At Arup, she was focused on the campus and building-specific scales, with an emphasis on modeling recovery after disasters.",
+      "photo": "images/Paul.jpg"
+    },
+    {
+      "name": "Jasper Verschuur",
+      "title": "Assistant Professor",
+      "organization": "Delft University of Technology & Environmental Change Institute",
+      "bio": "Jasper's research combines knowledge from climate analysis, critical infrastructure modelling, economics and system analysis. He is mainly interested in quantifying global system interactions of infrastructure, trade and supply-chains networks and the risks posed to these networks from climate-related extremes or other disasters. His research aims to identify policies to promote resilience and sustainability within these coupled systems.",
+      "photo": "images/Verschuur.jpg"
+    },
+    {
+      "name": "Max Loake",
+      "title": "StatML CDT DPhil student",
+      "organization": "University of Oxford",
+      "bio": "Max Loake is a third year DPhil student on the StatML CDT. The goal of his doctoral project is to model the humanitarian impact of disaster events such as earthquakes. He completed his undergraduate degree in Mathematics and Statistics at the University of Western Australia, and was awarded a Rhodes Scholarship in 2021.",
+      "photo": "images/Loake.jpg"
+    },
+    {
+      "name": "Shreyasha Paudel",
+      "title": "PhD Student",
+      "organization": "Toronto Climate Observatory, University of Toronto",
+      "bio": "Shreyasha is a PhD student at the University of Toronto in the Department of Computer Science with an interdisciplinary research focus that combines the techniques of Human Computer Interaction with critical theories from the social sciences and feminist STS. Her dissertation research examines  contemporary practices in the design and application of data, algorithms, and information systems for disaster response and climate adaptation in Nepal. Sheuses ethnographic, participatory, and design research methods for this research and is broadly interested in making disaster and climate data be more place-based, historically contextualized, and equitable.",
+      "photo": "images/Paudel.jpg"
+    },
+    {
+      "name": "Sangeeta Singh",
+      "title": "Professor, Department of Architecture & Urban Planning",
+      "organization": "IOE",
+      "bio": "In various positions at IOE, has led a number of research projects related to ecological urban planning, Disaster resilience, equitable urban resilience, sustainable development, gender mainstreaming among others and led one of the GCRF research as a city lead of the \"Tomorrow's cities\" in collaboration with University of Edinburgh and others. Has been undertaking research and has published various research works especially in the field of eco city and sustainable development, and has been a visiting scholar at Kyushu University, (Japan) KU Leuven University (Belgium), and Tibet University.",
+      "photo": "images/Singh.jpg"
+    },
+    {
+      "name": "Antonios Pomonis",
+      "title": "Structural Engineer",
+      "organization": "World Bank",
+      "bio": "Antonios Pomonis is a structural engineer with an MSc in Earthquake Engineering (Hokkaido University, Japan, 1987). During 1989-1992, he was Research Associate at the Martin Centre for Architectural and Urban Studies, University of Cambridge. He held the position of Chairman of the Earthquake Engineering Field Investigation Team (Institution of Structural Engineers, UK) in 1996-98. He was a director of Cambridge Architectural Research Ltd. (www.carltd.com) in 1994-2013. Since 2014 has been consulting with the World Bank on natural hazard risk modeling, exposure and vulnerability of the built environment.",
+      "photo": "images/Pomonis.png"
+    },
+    {
+      "name": "Brad Bottoms",
+      "title": "Data Scientist & Geographer",
+      "organization": "University of Michigan Center for Social Solutions",
+      "bio": "Brad currently serves as a data scientist and geographer in the Center for Social Solutions. In this role, he works to turn data into usable information and find unseen connections and correlations with this information. Brad has a BSc in Geography (Geographic Techniques) from Middle Tennessee State University, a Graduate Certificate in Geospatial Intelligence from Penn State University, and an MSc in Geographic Information Systems (Environmental Management) from the University of Southampton in the United Kingdom. With expertise in spatial data and disaster response, he has worked in roles with the federal government, local government, private industry, and consultancies to NGOs. In Brad's last position, he served as his company's practice manager for software development and product manager and the lead geospatial analyst supporting projects with FEMA, the World Bank, and many others. With over 15 years of professional experience with data and GIS, Brad has worked across six continents on projects ranging from data collection techniques and web development to flood exposure and habitat modeling.",
+      "photo": "images/Bottoms.png"
+    }
+  ]
